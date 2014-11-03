@@ -1,0 +1,19 @@
+{
+  "name": "dev-template",
+  "version": "1.0.0",
+  "authors": [
+    "Matt Carter <cartemj2@gmail.com>"
+  ],
+  "description": "Starter Template for front end development",
+  "license": "No Licence",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor"
+  ],
+  "devDependencies": {
+    "bootstrap": "~3.3.0",
+    "jquery": "~2.1.1"
+  }
+}
