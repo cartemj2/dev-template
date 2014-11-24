@@ -4,7 +4,7 @@
   "description": "Starter Template for front end development",
   "author": "Matt Carter <cartemj2@gmail.com>",
   "license": "No License",
-  "dependencies": {
+  "devDependencies": {
     "bower": "^1.3.12",
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^1.0.1",
